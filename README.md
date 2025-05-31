@@ -96,10 +96,14 @@ Check Status
 ```
 sudo systemctl status pop-node.service
 ```
+![pipe node 2](https://github.com/user-attachments/assets/477755b0-ede1-4826-9cfd-c6fd262a200e)
+
 View Logs
 ```
 journalctl -u pop-node.service -f --since "60 minutes ago"
 ```
+![pipe node 1](https://github.com/user-attachments/assets/7d30b841-1714-4cb2-b66f-6254bd90ba91)
+
 Stop
 ```
 sudo systemctl stop pop-node.service
@@ -113,6 +117,8 @@ Node Status
 ```
 ./pop --status
 ```
+![pipe node 3](https://github.com/user-attachments/assets/f6dd006c-91d3-4319-8312-1b251998f616)
+
 Check points
 ```
 ./pop --points
@@ -121,3 +127,10 @@ Generate referral
 ```
 ./pop --gen-referral-route
 ```
+**To Start Next Day**
+
+Run 'Manage your node' COMMAND
+
+Docs- https://docs.pipe.network/devnet-2
+
+Join TG for more Updates: https://t.me/JBondUpdate
