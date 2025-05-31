@@ -129,7 +129,7 @@ Generate referral
 ```
 **To Start Next Day**
 
-Run 'Manage your node' COMMAND
+Run `Manage your node` COMMAND
 
 Docs- https://docs.pipe.network/devnet-2
 
